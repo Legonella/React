@@ -23,3 +23,13 @@ function App() {
 }
 
 export default App;
+
+class ShopingList extends React.Component{
+	render() {
+		return(
+			<div className = "shoping-list">
+					<h1></h1>
+			</div>
+		)
+	}
+}

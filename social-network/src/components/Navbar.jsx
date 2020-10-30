@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Nav = () => {
+const Navbar = () => {
 	return(
-		<nav className = "nav">
+		<nav className = 'nav'>
 		<div><a href="#s" className = "link">Profile</a></div>
 		<div><a href="#s" className = "link">Messages</a></div>
 		<div><a href="#s" className = "link">News</a></div>
@@ -12,4 +12,4 @@ const Nav = () => {
 	)
 }
 
-export default Nav;
+export default Navbar;

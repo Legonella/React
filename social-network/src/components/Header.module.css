@@ -1,0 +1,8 @@
+.header {
+	grid-area: h;
+	background-color: springgreen;
+}
+
+.header img {
+	max-width: 10%;
+}

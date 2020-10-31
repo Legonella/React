@@ -1,8 +1,9 @@
 import React from 'react'
+import classes from './Profile.module.css'
 
 const Profile = () => {
 	return(
-		<div className = 'content'>
+		<div className = {classes.content}>
 			<div>
 				<img alt = "" src = "https://images.ctfassets.net/hrltx12pl8hq/4f6DfV5DbqaQUSw0uo0mWi/ff068ff5fc855601751499d694c0111a/shutterstock_376532611.jpg"></img>
 				</div>

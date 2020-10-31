@@ -8,27 +8,3 @@
 	grid-template-rows: 60px 1fr;
 	grid-template-columns: 2fr 10fr;
 }
-
-.header {
-	grid-area: h;
-	background-color: springgreen;
-}
-
-.header img {
-	max-width: 10%;
-}
-
-.nav {
-	grid-area: n;
-	background-color: springgreen;
-}
-
-.content {
-	grid-area: c;
-	
-}
-
-.content img {
-	max-width: 99%;
-	margin: 1%;
-}
